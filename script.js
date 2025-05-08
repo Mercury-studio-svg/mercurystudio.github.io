@@ -1,0 +1,1 @@
+console.log('Mercury Studio site loaded');
